@@ -1,4 +1,4 @@
-# pollen
+# Pollen Detection and Classification
 
 The focus of this research is to automate the pollen data collection at the regional Pollen Counting Station for StarRx Technology Center at Kean University. Currently, the data is counted and analyzed by hand. This project proposes an architecture for fully automated pollen grain counting and classification using deep learning through Convolutional Neural Networks (CNN) and implements software for the automation process. Multiple CNN architectures were implemented and tested for optimal classification results. The software will demonstrate how deep learning feature extraction methods detect and classify pollen from microscopic videos for real time classification. The model will also account for location and time of year the video is recorded through a time dependent Recurrent Neural Network (RNN) due to certain types of pollen being more prevalent during different times of the year and locations.
 
